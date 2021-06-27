@@ -2,3 +2,4 @@ theme: minima
 title: Dougvacs
 description: A Site to show off little coding projects
 author: Glenn Wallace
+show_excerpts: true
