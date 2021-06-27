@@ -1,3 +1,7 @@
 ---
 layout: home
+title: "Blog"
 ---
+# This is my blog
+
+## Poggy
