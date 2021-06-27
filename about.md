@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About page"
+title: "About"
 permalink: about.html
 ---
 

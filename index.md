@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "Intro"
 ---
 
 ## Welcome to GitHub Pages
