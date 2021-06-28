@@ -8,4 +8,4 @@ plugins:
   - jekyll-paginate
 remote_theme: jekyll/minima
 paginate: 5
-google_analytics: G-4HGVZK39H9
+google_analytics: UA-200690612-1
