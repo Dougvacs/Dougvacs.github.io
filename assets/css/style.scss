@@ -7,8 +7,34 @@ $sol-dark: #002229;
 
 @import "minima/skins/solarized";
 @import "minima/initialize";
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
+
+@font-face {
+    font-family: 'Libre Baskerville';
+    src: url("../fonts/LibreBaskerville-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libre Baskerville';
+    src: url("../fonts/LibreBaskerville-Italic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Libre Baskerville';
+    src: url("../fonts/LibreBaskerville-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cutive';
+    src: url("../fonts/CutiveMono-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
 
 * {
     font-family: 'Libre Baskerville', serif !important;
