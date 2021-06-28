@@ -1,5 +1,10 @@
 theme: minima
 title: Dougvacs
 description: A Site to show off little coding projects
-author: Glenn Wallace
+author_name: Glenn Wallace
 show_excerpts: true
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+remote_theme: jekyll/minima
+paginate: 5
