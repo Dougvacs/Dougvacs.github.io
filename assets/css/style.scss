@@ -40,11 +40,11 @@ $hamburger-active: $sol-green;
 }
 
 * {
-    font-family: "Libre Baskerville", serif !important;
+    font-family: "Libre Baskerville", serif;
 }
 
 code {
-    font-family: "Cutive Mono", monospace !important;
+    font-family: "Cutive", monospace;
 }
 
 html, body {
@@ -57,6 +57,28 @@ $a-highlight: $sol-base3;
 $meta-highlight: $sol-green;
 $sol-shadow: rgba(0, 0, 0, 0.5);
 $sol-shadow-dark: rgb(0,0,0);
+
+mjx-math {
+    font-family: MJXZERO, MJXTEX;
+    color: $sol-base0;
+    transition: all 0.2s ease;
+    * {
+        font-family: MJXZERO, MJXTEX;
+        color: $sol-base0;
+        transition: all 0.2s ease;
+    }
+}
+
+mjx-math:hover {
+    font-family: MJXZERO, MJXTEX;
+    color: $sol-red;
+    transition: all 0.2s ease;
+    * {
+        font-family: MJXZERO, MJXTEX;
+        color: $sol-red;
+        transition: all 0.2s ease;
+    }
+}
 
 .site-header {
     background-color: $sol-dark;

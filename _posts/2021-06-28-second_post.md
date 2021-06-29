@@ -26,3 +26,13 @@ It's the second post and there's still nothing here.
              `._____.'
 
 Except a mushroom!
+
+## Euler-Lagrange Equation
+
+$$
+\frac{\partial}{\partial t} 
+\frac{\partial L}{\partial  \dot{q}} 
+-
+\frac{\partial L}{\partial q}
+= 0
+$$
