@@ -3,6 +3,7 @@ title: Second post
 author: Glenn Wallace
 date: 2021-06-28
 layout: post
+tags: Second Post, Mushrooms
 ---
 
 ## Second post!
